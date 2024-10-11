@@ -22,4 +22,6 @@ void main(){
     // System.out.println((null) b);
 
     byte x = 10 + (int) (2.5 * 3);
+    Byte b2 = 10;       // N.P.C + B.C
+    // System.out.println((Byte) 10);
 }
